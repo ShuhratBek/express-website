@@ -1,0 +1,9 @@
+host: 'smtp.ethereal.email'
+port: 587
+#true for 465, false for other ports
+secure: false
+auth:
+    #generated ethereal user
+    user: ypnvevjnlgr5xrdd@ethereal.email
+    #generated ethereal password
+    pass: ZWyS3CUGDaFczjNbJM
